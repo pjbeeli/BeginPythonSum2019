@@ -24,6 +24,7 @@ def fetch_words(filename):
     return data
 
 
+
 def print_items(items):
     """
     Print elements of the collection

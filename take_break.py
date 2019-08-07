@@ -20,7 +20,7 @@ def main():
     Test function
     :return:
     """
-    video_address = "https://www.youtube.com/watch?v=2LPn_wMf44Y"
+    video_address = "https://www.youtube.com/watch?v=JwGPQqaOVvc"
     # Delay "sleep"
     time.sleep(50*60)
     webbrowser.open(video_address)

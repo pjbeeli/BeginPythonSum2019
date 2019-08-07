@@ -34,3 +34,5 @@ s = "parrot"
 print("s[4]", s[4], type(s))
 # Capitalize the string
 print(s, s.capitalize())
+
+print(s.find("o"),s.find("p"), s.__len__(), len(s))

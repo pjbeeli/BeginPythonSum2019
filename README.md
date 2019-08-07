@@ -8,3 +8,12 @@ This is an introduction to Python.
 - Basics of iterations
 - Basics of functions (**def**)
 - The concept of modularity
+
+## Day 2 Summary
+- Learn about opening youtube videos (webbrowser module)
+- Learn about time module
+- Learn about definitions:
+    - Required parameters
+    - Optional parameters
+- Tuples and unpacking tuples
+- Learn more about strings

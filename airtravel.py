@@ -70,7 +70,8 @@ class Flight:
 
     def make_bording_class(self, card_printer):
          for passenger, seat in sorted(self._passenger_seats()):
-             card_printer(passenger, seat, self._flight_num(), self._aircraft.model())
+             card_printer(passenger, seat, self._flight_num(),
+                          self._aircraft.model())
 
     def _passenger_seats(self):
         row_numbers, seat_letters = self._aircraft.seating_plan()
